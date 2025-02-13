@@ -55,7 +55,7 @@ dependencies:
 #  jwt_decoder: ^2.0.1
   rename_app: ^1.6.1
   flutter_phoenix: ^1.1.1
-  restart_app: ^1.2.1
+  restart_app: ^1.0.0
   r_dotted_line_border: ^0.1.1
   shimmer: ^3.0.0
    
